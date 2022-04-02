@@ -3,9 +3,6 @@
 ### Project List <br>
 * #### <a href="https://github.com/Subhani-78/Beginner-Python-Projects/tree/main/Acronyms%20Using%20Python%20%F0%9F%90%A6">Acronyms Using Python 🐦</a>
 
-## Previous 🐧
-#### <a href="https://github.com/Subhani-78/Beginner-Python-Projects">Python Projects for Beginners 🐍</a>
-
 ## Next 🐋
 
 ## Support 🐶
